@@ -26,7 +26,7 @@ Setup Instructions
 
 bash
 git clone https://github.com/raghavarora01/Todo-Api.git
-cd task-management-api
+cd Todo-Api
 
 2. Install Dependencies
 Install the necessary dependencies:
